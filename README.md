@@ -9,7 +9,7 @@ Dots next to a section track pomodoros spent on that topic.
 * __DONE__ Javascripting ..
 * git-it
 * Scope Chains & Closures
-* learnyounode .
+* learnyounode ..
 * __DONE__ How to npm ..
 * stream-adventure
 
