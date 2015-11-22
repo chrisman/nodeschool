@@ -2,13 +2,15 @@
 
 I'm going to be working through the cores and electives on [nodeschool.io](http://nodeschool.io/)
 
+Dots next to a section track pomodoros spent on that topic.
+
 ## Core
 
 * __DONE__ Javascripting ..
 * git-it
 * Scope Chains & Closures
 * learnyounode
-* How to npm
+* How to npm .
 * stream-adventure
 
 ## electives
