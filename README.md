@@ -6,30 +6,30 @@ Dots next to a section track pomodoros spent on that topic.
 
 ## Core
 
-* [x] __DONE__ ~~Javascripting~~ ..
+* [x] ~~Javascripting~~ ..
+* [x] ~~How to npm~~ ..
 * [ ] git-it
 * [ ] Scope Chains & Closures
 * [ ] learnyounode ....
-* [x] __DONE__ ~~How to npm~~ ..
 * [ ] stream-adventure
 
-## electives
+## Electives
 
 There are lots of electives. I'll probably pick and choose the ones I want to do, starting with these.
 
 __Javascript and ES6__
-* Functional Javascript
-* Count to 6
-* Tower of Babel
+* [ ]Functional Javascript
+* [ ]Count to 6
+* [ ]Tower of Babel
 
 __React__
-* learnyoureact
-* Thinking in React
+* [ ]learnyoureact
+* [ ]Thinking in React
 
 __Databases__
-* learnyoucouchdb
-* learnyoumongo
+* [ ]learnyoucouchdb
+* [ ]learnyoumongo
 
 __Other__
-* Browserify Adventure
-* learn-sass
+* [ ]Browserify Adventure
+* [ ]learn-sass
