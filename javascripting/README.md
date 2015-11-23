@@ -1,3 +1,3 @@
 # Javascripting
 
-![]('.javascripting_Completed.png')
+![](javascripting_Completed.png)
