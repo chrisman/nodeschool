@@ -6,12 +6,12 @@ Dots next to a section track pomodoros spent on that topic.
 
 ## Core
 
-* __DONE__ Javascripting ..
-* git-it
-* Scope Chains & Closures
-* learnyounode ...
-* __DONE__ How to npm ..
-* stream-adventure
+* [x] __DONE__ ~~Javascripting~~ ..
+* [ ] git-it
+* [ ] Scope Chains & Closures
+* [ ] learnyounode ....
+* [x] __DONE__ ~~How to npm~~ ..
+* [ ] stream-adventure
 
 ## electives
 
