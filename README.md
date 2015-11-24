@@ -8,9 +8,9 @@ Dots next to a section track pomodoros spent on that topic.
 
 * [x] ~~Javascripting~~ ..
 * [x] ~~How to npm~~ ..
+* [x] ~~learnyounode~~ ...... Holy crap my brain
 * [ ] git-it
 * [ ] Scope Chains & Closures
-* [ ] learnyounode ....
 * [ ] stream-adventure
 
 ## Electives
