@@ -10,7 +10,7 @@ Dots next to a section track pomodoros spent on that topic.
 * [x] ~~How to npm~~ ..
 * [x] ~~learnyounode~~ ...... Holy crap my brain
 * [x] ~~Scope Chains & Closures~~ Short and sweet
-* [ ] git-it
+* [x] ~~git-it~~ not much new here. except the practice of adding an upstream remote
 * [ ] stream-adventure
 
 ## Electives
