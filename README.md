@@ -9,7 +9,7 @@ Dots next to a section track pomodoros spent on that topic.
 * [x] ~~Javascripting~~ ..
 * [x] ~~How to npm~~ ..
 * [x] ~~learnyounode~~ ...... Holy crap my brain
-* [ ] Scope Chains & Closures
+* [x] ~~Scope Chains & Closures~~ Short and sweet
 * [ ] git-it
 * [ ] stream-adventure
 
