@@ -22,7 +22,7 @@ There are lots of electives. I'll probably pick and choose the ones I want to do
 3. ??
 
 __Javascript and ES6__
-* [ ] Functional Javascript `npm install -g functional-javascript-workshop`
+* [ ] Functional Javascript `npm install -g functional-javascript-workshop` ...
 * [ ] Count to 6 `npm install -g count-to-6`
 * [ ] Tower of Babel `npm install tower-of-babel -g`
 
