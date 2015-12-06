@@ -17,12 +17,12 @@ Dots next to a section track pomodoros spent on that topic.
 
 There are lots of electives. I'll probably pick and choose the ones I want to do, starting with these.
 
-1. Functional Javascript
+1. ~~Functional Javascript~~
 2. ExpressWorks
 3. ??
 
 __Javascript and ES6__
-* [ ] Functional Javascript `npm install -g functional-javascript-workshop` ...
+* [x] Functional Javascript `npm install -g functional-javascript-workshop` ... <-- lost track of time. way more than three. very challenging.
 * [ ] Count to 6 `npm install -g count-to-6`
 * [ ] Tower of Babel `npm install tower-of-babel -g`
 
